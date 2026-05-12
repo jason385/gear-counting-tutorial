@@ -1,10 +1,7 @@
-import GearCountingTutorial from './gear_counting_tutorial.jsx'
+import GearCountingTutorial from "./gear_counting_tutorial.jsx";
 
 function App() {
-  return (
-    <GearCountingTutorial />
-  )
+  return <GearCountingTutorial />;
 }
 
-export default App
-
+export default App;
